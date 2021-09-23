@@ -1,9 +1,10 @@
----
 title: Breaking news more than 250 Afghan interpreters details shared by MoD
+tags:
+  - breaking news
+  - mod
+  - data breach
 date: 2021-09-21 14:19:47
-tags: [breaking news, mod, data breach]
 ---
-
 <style>
     #banner {
     position: absolute;
@@ -30,3 +31,5 @@ tags: [breaking news, mod, data breach]
 <!-- add content to post -->
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
+test

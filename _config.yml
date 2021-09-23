@@ -105,3 +105,9 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ""
+
+# hexo-admin authentification
+admin:
+  username: robustadmin
+  password_hash: $2a$10$z/ZF13diykJhlUjgNgxIseXpq9w0iJEldyCaHRVTk9Xfiqe.R1BwC
+  secret: Something secret
