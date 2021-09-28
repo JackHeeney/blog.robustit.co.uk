@@ -29,6 +29,24 @@ tags: [cyber, security, government, uk, security]
 
 <!-- add content to post -->
 
-## heading 1
+The Department for Digital, Culture, Media and Sport (DCMS) have announced their new initiative, known as 'Cyber Runway'.
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+The new government-supported scheme is here to support the UK's growing Cyber Security sector, and to offer new security and cyber firms the backing and support that they need.
+
+Cyber Runway has been launched to help businesses and entrepreneurs from across the UK to have access to business masterclasses, product development support, networking events, mentoring, and more. It has been designed to accelerate the growth of these businesses across the UK. Cyber Runway is a national initiative and 50% of all companies included will be based outside of London.
+
+Innovative cyber start-ups, small businesses, and scaleups will be able to benefit from this new scheme to help them launch and grow their business. Cyber Runway will help businesses to turn their ideas into commercial successes and grow the Cyber sector further.
+
+Companies participating in DCMS’s cyber growth initiatives in the past have, on average, more than tripled their revenues year on year.
+
+'Cyber Runway' will be delivered by Plexal, CyLon, Deloitte, and The Centre for Secure Information Technologies (CSIT). Its backers hope to on-board 160 organisations and companies between now and February 2022.
+
+The Cyber Runway has been designed to help tackle the barriers to growth, boost people's digital skills and to give firms a new route to develop their business acumen. It will also target founders and innovators from under-represented groups in security; specifically, businesses led by women and people from black, asian, and minority ethnic backgrounds.
+
+## “The UK cyber sector is booming and we are working hard to benefit businesses and individuals across the country,” said Matt Warman, Minister of Digital Infrastructure. ""
+
+## “Our new cyber runway program will help address growth barriers, increase investment and provide companies with critical support to take their businesses to the next level.”
+
+What do you think of the Cyber Runway?
+
+Robust IT Team

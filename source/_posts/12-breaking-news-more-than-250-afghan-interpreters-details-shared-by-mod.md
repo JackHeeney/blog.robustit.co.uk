@@ -1,10 +1,9 @@
-title: Breaking news more than 250 Afghan interpreters details shared by MoD
-tags:
-  - breaking news
-  - mod
-  - data breach
-date: 2021-09-21 14:19:47
 ---
+title: Breaking news more than 250 Afghan interpreters details shared by MoD
+date: 2021-09-21 14:19:47
+tags: [breaking news, mod, data breach]
+---
+
 <style>
     #banner {
     position: absolute;
@@ -30,6 +29,18 @@ date: 2021-09-21 14:19:47
 
 <!-- add content to post -->
 
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+An investigation has been launched into a data breach involving the email addresses of more than 250 Afghan interpreters who worked for the British forces.
 
-test
+More than 250 people who were seeking relocation into the UK, were mistakenly copied into an email from the Ministry of Defence.
+
+Many of the people copied in were in hiding, and their email addresses, names, and some associated profile pictures could be seen by all recipients.
+
+The email was sent by the team in charge of the UK's Afghan Relocations and Assistance Policy (Arap). The email stated to the interpreters that they were doing everything they could to help them, and that they should not put themselves or their families at risk if it was not safe for them.
+
+He told the BBC '"This mistake could cost the life of interpreters, especially for those who are still in Afghanistan''.
+
+"Some of the interpreters didn't notice the mistake and they replied to all the emails already and they explained their situation which is very dangerous. The email contains their profile pictures and contact details."
+
+John Healey, Labour shadow defence secretary, said the data breach had "needlessly put lives at risk" and called on the government to urgently step-up efforts to get the interpreters to the UK.
+
+## The MoD have since apologised in a statement.
