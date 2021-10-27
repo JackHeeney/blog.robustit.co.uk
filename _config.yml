@@ -73,6 +73,9 @@ tag_map:
 # Metadata elements
 ## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
 meta_generator: true
+metadata:
+  author_id: defaultAuthorId
+  language:
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
@@ -109,5 +112,5 @@ deploy:
 # hexo-admin authentification
 admin:
   username: robustadmin
-  password_hash: $2a$10$z/ZF13diykJhlUjgNgxIseXpq9w0iJEldyCaHRVTk9Xfiqe.R1BwC
-  secret: Something secret
+  password_hash: $2a$10$T8rLWnjYhEp1L5POevXnOekMz7eCn1cvllCw3XEQ7jOKjhcoK2gRy
+  secret: p1
